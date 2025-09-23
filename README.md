@@ -119,7 +119,6 @@ Vibe Coding 讓開發者可以：
 如有任何問題或想進一步了解 Vibe Coding，歡迎透過以下方式聯絡：
 
 - GitHub Issues: [在此 Repository 提出問題](https://github.com/joshhu/ntuespeech2025/issues)
-- Email: [講師信箱]
 
 ## 授權
 
