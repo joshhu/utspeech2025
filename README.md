@@ -11,7 +11,7 @@
 
 - **投影片**：[https://reurl.cc/mYjj2V](https://reurl.cc/mYjj2V)
 - **Slido 互動問答**：[https://app.sli.do/event/ezZaJBGR1KsKMCfSwMgQHv](https://app.sli.do/event/ezZaJBGR1KsKMCfSwMgQHv)
-- **GitHub Repository**：[https://github.com/username/ntuespeech2025](https://github.com/username/ntuespeech2025)
+- **GitHub Repository**：[https://github.com/joshhu/ntuespeech2025](https://github.com/joshhu/ntuespeech2025)
 
 ## 演講大綱
 
@@ -71,9 +71,8 @@
 ```
 ntuespeech2025/
 ├── README.md                    # 本檔案
-├── Agenda2.md                   # 完整演講內容
-├── vibe-coding-principles.md    # Vibe Coding 技術原則
-└── assets/                      # 相關資源檔案
+├── Lecture.md                   # 完整演講內容
+└── .gitignore                   # Git 忽略檔案設定
 ```
 
 ## 關於 Vibe Coding
@@ -119,7 +118,7 @@ Vibe Coding 讓開發者可以：
 
 如有任何問題或想進一步了解 Vibe Coding，歡迎透過以下方式聯絡：
 
-- GitHub Issues: [在此 Repository 提出問題](https://github.com/username/ntuespeech2025/issues)
+- GitHub Issues: [在此 Repository 提出問題](https://github.com/joshhu/ntuespeech2025/issues)
 - Email: [講師信箱]
 
 ## 授權
