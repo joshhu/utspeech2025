@@ -1,17 +1,17 @@
-# 台北教育大學資訊科學系演講 - Vibe Coding
+# 台北市立大學資訊科學系演講 - Vibe Coding
 
 ## 演講資訊
 
 - **演講主題**：Vibe Coding - 爽爽的寫程式
 - **演講時間**：2025年09月24日（星期二）下午 13:10 - 15:00
-- **演講地點**：台北教育大學資訊科學系
+- **演講地點**：台北市立大學資訊科學系
 - **講師**：胡嘉璽
 
 ## 演講資源
 
 - **投影片**：[https://reurl.cc/mYjj2V](https://reurl.cc/mYjj2V)
 - **Slido 互動問答**：[https://app.sli.do/event/ezZaJBGR1KsKMCfSwMgQHv](https://app.sli.do/event/ezZaJBGR1KsKMCfSwMgQHv)
-- **GitHub Repository**：[https://github.com/joshhu/ntuespeech2025](https://github.com/joshhu/ntuespeech2025)
+- **GitHub Repository**：[https://github.com/joshhu/utspeech2025](https://github.com/joshhu/utspeech2025)
 
 ## 演講大綱
 
@@ -69,7 +69,7 @@
 ## 檔案結構
 
 ```
-ntuespeech2025/
+utspeech2025/
 ├── README.md                    # 本檔案
 ├── Lecture.md                   # 完整演講內容
 └── .gitignore                   # Git 忽略檔案設定
@@ -118,7 +118,7 @@ Vibe Coding 讓開發者可以：
 
 如有任何問題或想進一步了解 Vibe Coding，歡迎透過以下方式聯絡：
 
-- GitHub Issues: [在此 Repository 提出問題](https://github.com/joshhu/ntuespeech2025/issues)
+- GitHub Issues: [在此 Repository 提出問題](https://github.com/joshhu/utspeech2025/issues)
 
 ## 授權
 
@@ -126,5 +126,5 @@ Vibe Coding 讓開發者可以：
 
 ---
 
-**感謝台北教育大學資訊科學系的邀請，期待與同學們分享 Vibe Coding 的精彩世界！**
+**感謝台北市立大學資訊科學系的邀請，期待與同學們分享 Vibe Coding 的精彩世界！**
 
