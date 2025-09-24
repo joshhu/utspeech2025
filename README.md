@@ -124,7 +124,7 @@ Vibe Coding 讓開發者可以：
 
 本專案採用 MIT 授權條款。詳見 [LICENSE](LICENSE) 檔案。
 
-## 購書連結
+## 書籍介紹
 
 天瓏：https://www.tenlong.com.tw/products/9786267757277
 ![天瓏](2025_09_24_09_36_06_1.jpg)
