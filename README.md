@@ -126,9 +126,11 @@ Vibe Coding 讓開發者可以：
 
 ## 購書連結
 
-![Vibe Coding Cursor 教戰手冊](2025_09_24_02_32_43_1.jpg)
+天瓏：https://www.tenlong.com.tw/products/9786267757277
+![天瓏](2025_09_24_09_36_06_1.jpg)
 
-![購書連結](2025_09_19_11_37_48_1.jpg)
+博客來：https://www.books.com.tw/products/0011031491
+![博客來](2025_09_24_09_36_31_1.jpg)
 
 ---
 
